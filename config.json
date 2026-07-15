@@ -1,3 +1,5 @@
 {
-  "apiUrl": "https://script.google.com/macros/s/AKfycbztOqDmQKa4PHCQu8nN-YqcXugsDAz7GKdn_aJ1Nvofy54QH3d9ocKl34ygIkP4-eF3Wg/exec"
+  "scriptUrl": "https://script.google.com/macros/s/AKfycbztOqDmQKa4PHCQu8nN-YqcXugsDAz7GKdn_aJ1Nvofy54QH3d9ocKl34ygIkP4-eF3Wg/exec",
+  "version": "1.0.0",
+  "appName": "SkillNest"
 }
